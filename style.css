@@ -1,0 +1,68 @@
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+#title{
+    font-family: 'Ranchers', cursive;
+    text-align: center;
+    color: black;
+}
+#marqueeStyle{
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    font-size: 20px
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black
+}
+#schoolimg{
+    width: 300px;
+    height: 200px;
+    padding-top: 10px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+#home{
+    background-color: lavenderblush;
+}
+#contact{
+    background-color: mintcream
+}
+#principalpic{
+    height: 400px;
+    width: 700px;
+    border-radius: 20px
+}
+#campus{
+    padding-left: 40px;
+    text-align: center;
+    background-color: aliceblue;
+}
+#campusimg{
+    width: 75%;
+    text-align: center;
+    margin-left: 150px;
+}
+#campuscontent{
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+whats_newcontent{
+    text-align: left;
+}
+#achievements{
+    text-align: center;
+    background-color: honeydew;
+}
+#whats_new{
+    background-color: linen;
+}
+#alumni{
+    background-color: palegoldenrod;
+    text-align: center;
+}
